@@ -8,6 +8,8 @@
 
 
 I'm an Artificial intelligence Master degree graduate passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
+<br>
+
 I also do mobile and web developement, i enjoy learning new programming languages and frameworks like flutter , FLASK and Django.
 
 Skills: Python/Dart/Computer vision/Medical Image Analysis
@@ -75,7 +77,9 @@ Skills: Python/Dart/Computer vision/Medical Image Analysis
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 
 
-
+<br>
+<br>
+<br>
 
 
 
