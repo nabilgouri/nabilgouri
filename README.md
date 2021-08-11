@@ -132,6 +132,6 @@ Skills: Python/Dart/Computer vision/Medical Image Analysis
 
 
 ## Are you hiring?
-I'm looking for work, and ideally I'd love to work as a data analyst or some related role. I have some basic website skills as well. In the long run, if the job involves conservation or even green tech, that would be a dream.
+I'm looking for work, and ideally I'd love to work as a data scientist or some related role. I have some basic website skills as well. In the long run, if the job involves conservation or even green tech, that would be a dream.
 
 
