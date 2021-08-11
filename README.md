@@ -1,10 +1,9 @@
-<!-- This readme was created by Zoghbi Abderraouf - https://github.com/nabilgouri please give me a star if you like it-->
+<!-- This readme was created by Gouri Nabil - https://github.com/nabilgouri please give me a star if you like it-->
 
 <h3 align="center"><samp>Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, How you doin'? </samp></h3>
 <p align="center">
 </p>
 
-### Hi there 👋
 
 
 ## nabilgouri/nabilgouri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
