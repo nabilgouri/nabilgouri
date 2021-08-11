@@ -8,6 +8,7 @@
 
 ## 
 Hey it's Nabil I'm an Artificial intelligence Master degree graduate 
+I also do mobile and web developement, i enjoy learning new programming languages and frameworks like flutter , FLASK and Django.
 
 #### Here are some ideas to get you started:
 
@@ -15,6 +16,8 @@ Hey it's Nabil I'm an Artificial intelligence Master degree graduate
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on NLP projects
 - ⚡ Fun fact: fun facts are never fun or funny tbh 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilgouri)](https://github.com/anuraghazra/github-readme-stats)
 
 ###  📫 How to reach me:
 <p align = "center">
