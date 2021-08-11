@@ -19,7 +19,7 @@ Skills: Python/Dart/Computer vision/Medical Image Analysis
 
 
 
-<h3> 🛠 &nbsp;Skils</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
