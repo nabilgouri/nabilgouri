@@ -6,8 +6,8 @@
 
 ###  Hey it's Nabil 
 
-i am Data scientist 
-I'm an Artificial intelligence Master degree graduate  
+
+I'm an Artificial intelligence Master degree graduate passionate about Data Science.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance.
 I also do mobile and web developement, i enjoy learning new programming languages and frameworks like flutter , FLASK and Django.
 
 Skills: Python/Dart/Computer vision/Medical Image Analysis
