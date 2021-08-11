@@ -4,20 +4,24 @@
 <p align="center">
 </p>
 
+###  Hey it's Nabil 
 
-
-## 
-Hey it's Nabil I'm an Artificial intelligence Master degree graduate 
+i am Data scientist 
+I'm an Artificial intelligence Master degree graduate  
 I also do mobile and web developement, i enjoy learning new programming languages and frameworks like flutter , FLASK and Django.
 
-#### Here are some ideas to get you started:
+Skills: Python/Dart/Computer vision/Medical Image Analysis
 
-- 🔭 I’m currently working on the Eye Can Talk Project which is  
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on NLP projects
-- ⚡ Fun fact: fun facts are never fun or funny tbh 
+- 🔭 I’m currently working on The Eye Can Talk Project 
+- 🌱 I’m currently learning Flutter 
+- 👯 I’m looking to collaborate on More NLP Projects 
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilgouri&show_icons=true&theme=radical)
+
+![Profile views](https://gpvc.arturio.dev/nabilgouri)  
 
 ###  📫 How to reach me:
 <p align = "center">
