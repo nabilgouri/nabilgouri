@@ -69,7 +69,7 @@ Skills: Python/Dart/Computer vision/Medical Image Analysis
 <br>
 **🌱 Looking forward to learn:** <br>
 <br>
-<code><a href="https://www.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutter/flutter-ar21.svg"></a></code>
+<code><a href="https://www.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
