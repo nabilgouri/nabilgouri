@@ -17,7 +17,7 @@ I also do mobile and web developement, i enjoy learning new programming language
 - 👯 I’m looking to collaborate on NLP projects
 - ⚡ Fun fact: fun facts are never fun or funny tbh 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilgouri)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilgouri&show_icons=true&theme=radical)
 
 ###  📫 How to reach me:
 <p align = "center">
