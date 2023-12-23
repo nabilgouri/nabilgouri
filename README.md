@@ -12,10 +12,10 @@ I'm an Artificial intelligence Master degree graduate passionate about Data Scie
 
 I also do mobile and web developement, i enjoy learning new programming languages and frameworks like flutter , FLASK and Django.
 
-Skills: Python/Dart/Computer vision/Medical Image Analysis
+Skills: Javascript/MERN stack/Python/Dart/Computer vision/Medical Image Analysis
 
-- 🔭 I’m currently working on The Eye Can Talk Project 
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working as a software consultant 
+- 🌱 I’m currently learning React JS 
 - 👯 I’m looking to collaborate on More NLP Projects 
 
 
@@ -132,6 +132,6 @@ Skills: Python/Dart/Computer vision/Medical Image Analysis
 
 
 ## Are you hiring?
-I'm looking for work, and ideally I'd love to work as a data scientist or some related role. I have some basic website skills as well. In the long run, if the job involves conservation or even green tech, that would be a dream.
+I'm always looking for new & challenging opportunities, and ideally I'd love to work as a Back end developer or some related role. I have some basic website skills as well. In the long run, if the job is in a fintech company tech, that would be a dream ✨️.
 
 
